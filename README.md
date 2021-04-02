@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitorwolff
-- 👀 I’m interested in learning more about PHP
+- 👀 I’m interested in to learn more about PHP
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ecommerce projects.
 - 📫 How to reach me @vitordwolff on instagram
